@@ -1,0 +1,5 @@
+email: hasham87@hotmail.com
+password: Karachi@123
+Assigned cloud name: dhkbpboum
+API Key: 117614368819127
+API Secret: VqifW4_9h84hs6dVQX2rAC0lgtg
